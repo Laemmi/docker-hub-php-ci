@@ -3,6 +3,7 @@ FROM php:7.2-apache
 # Packages
 RUN apt-get update && \
     apt-get install -y \
+    git \
     less \
     libfreetype6-dev \
     libicu-dev \
