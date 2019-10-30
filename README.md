@@ -4,7 +4,6 @@ Image for php ci and php development.
 ## Includes
 - Linux
     - git
-    - less
     - libfreetype6-dev
     - libicu-dev
     - libjpeg62-turbo-dev
@@ -13,9 +12,6 @@ Image for php ci and php development.
     - libpng-dev
     - libtidy-dev
     - locales 
-    - openssh-client
-    - rsync
-    - ssh
     - unzip
 
 - php 7.2
@@ -28,7 +24,6 @@ Image for php ci and php development.
     - opcache
     - soap
     - sockets
-    - tidy
     - zip
     - imagick
     - xdebug
