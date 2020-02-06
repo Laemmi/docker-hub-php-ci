@@ -20,6 +20,8 @@ Image for php ci and php development.
     - gd
     - intl
     - ldap
+    - pdo
+    - pdo_mysql
     - mysqli
     - opcache
     - soap

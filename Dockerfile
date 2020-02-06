@@ -25,6 +25,8 @@ RUN docker-php-ext-install -j "$(nproc)" \
     gd \
     intl \
     ldap \
+    pdo \
+    pdo_mysql \
     mysqli \
     opcache \
     soap \
